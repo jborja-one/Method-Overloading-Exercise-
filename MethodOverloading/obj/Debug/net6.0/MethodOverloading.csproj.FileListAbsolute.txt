@@ -1,0 +1,15 @@
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.deps.json
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.runtimeconfig.json
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.dll
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/bin/Debug/net6.0/MethodOverloading.pdb
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.AssemblyInfo.cs
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.sourcelink.json
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.dll
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/refint/MethodOverloading.dll
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.pdb
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/MethodOverloading.genruntimeconfig.cache
+/Users/borjas/Documents/True Coders/Repos/Method-Overloading-Exercise-/MethodOverloading/obj/Debug/net6.0/ref/MethodOverloading.dll
